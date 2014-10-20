@@ -1,6 +1,6 @@
 === Advanced Custom Fields: Markdown Field ===
 Contributors: jensnilsson
-Tags: Advanced Custom Fields, acf, acf4, acf5, custom fields, admin, wp-admin, markdown, syntax, syntax highlighting, md, mou
+Tags: Advanced Custom Fields, acf, acf4, acf5, custom fields, admin, wp-admin, markdown, syntax, syntax-highlighting
 Requires at least: 4.0
 Tested up to: 4.0
 Stable tag: trunk
