@@ -1,6 +1,6 @@
 === Advanced Custom Fields: Markdown Field ===
 Contributors: jensnilsson
-Tags: Advanced Custom Fields, acf, acf4, acf5, custom fields, admin, wp-admin, markdown, syntax, syntax-highlighting
+Tags: Advanced Custom Fields, acf, acf4, acf5, custom fields, admin, wp-admin, markdown, syntax, syntax highlighting, md, mou
 Requires at least: 4.0
 Tested up to: 4.0
 Stable tag: trunk
@@ -16,7 +16,6 @@ Adds a markdown-field, which is really just a textarea with some extra tools and
 = Compatibility =
 
 This ACF field type is compatible with:
-
 * ACF 5
 * ACF 4
 
@@ -39,10 +38,16 @@ If you want the latest development version of this plugin it is available over a
 
 == Changelog ==
 
+= 1.1.0 =
+* Added support for "Add Media" button.
+
 = 1.0.0 =
 * Initial Release.
 
 == Upgrade Notice ==
+
+= 1.1.0 =
+* Added support for "Add Media" button. (Available as an option)
 
 = 1.0.0 =
 * Initial Release.
